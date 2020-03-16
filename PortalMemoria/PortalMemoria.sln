@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalMemoria", "PortalMemoria\PortalMemoria.csproj", "{50A218E3-71C5-4050-BB0E-9DB4AD360312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A218E3-71C5-4050-BB0E-9DB4AD360312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A218E3-71C5-4050-BB0E-9DB4AD360312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A218E3-71C5-4050-BB0E-9DB4AD360312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A218E3-71C5-4050-BB0E-9DB4AD360312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9478091-E213-4A86-9400-955B74C19E72}
+	EndGlobalSection
+EndGlobal
